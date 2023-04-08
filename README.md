@@ -2,9 +2,9 @@
 PasterTetra Mod -- Created for PasterDream X Tetra<br>
 PasterTetra 模组 -- [帕斯特之梦](https://www.mcmod.cn/class/8530.html)和[Tetra](https://www.mcmod.cn/class/2018.html)的联动模组<br>
 <div align="center">
-  <img src="https://github.com/VV-VittorioVeneto/PasterTetra/blob/main/img/1.png" width="600">
+  <img src="https://github.com/VV-VittorioVeneto/PasterTetra/blob/main/img/1.png" width="400">
 </div><div align="center">
-  <img src="https://github.com/VV-VittorioVeneto/PasterTetra/blob/main/img/2.png" width="600">
+  <img src="https://github.com/VV-VittorioVeneto/PasterTetra/blob/main/img/2.png" width="400">
 </div>
 
 #### 这个模组的存在意义是什么？
