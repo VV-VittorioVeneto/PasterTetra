@@ -1,7 +1,7 @@
 # PasterTetra
 PasterTetra Mod -- Created for PasterDream X Tetra<br>
 PasterTetra 模组 -- [帕斯特之梦](https://www.mcmod.cn/class/8530.html)和[Tetra](https://www.mcmod.cn/class/2018.html)的联动模组<br>
-![image](img\1.png)![image](img\2.png)
+![image](PasterTetra/img/1.png)![image](PasterTetra/img/2.png)
 
 #### 这个模组的存在意义是什么？
 帕斯特之梦模组自带与Tetra的联动，但那并不够完整。<br>
