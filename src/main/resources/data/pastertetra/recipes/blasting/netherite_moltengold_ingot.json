@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 600,
+  "experience": 10,
+  "ingredient": {
+    "item": "pastertetra:netherite_moltengold_bing"
+  },
+  "result": "pastertetra:netherite_moltengold_ingot"
+}

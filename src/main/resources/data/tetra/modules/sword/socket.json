@@ -1,0 +1,70 @@
+{
+    "replace": false,
+        "variants": [
+      {
+          "key": "sword_socket/socket_spore_essence",
+          "category": "socket",
+          "integrity": -3,
+          "effects": {
+              "pastertetra:grassskill": 1
+          },
+          "glyph": {
+              "tint": "00FF33",
+              "textureX": 80,
+              "textureY": 16
+          },
+          "models": [{
+              "location": "tetra:items/module/sword/guard/socket/spore_essence"
+          }]
+      },
+      {
+          "key": "sword_socket/socket_dyedream_crystal",
+          "category": "socket",
+          "integrity": -3,
+          "effects": {
+              "pastertetra:moltendreamskill": 1
+          },
+          "glyph": {
+              "tint": "EE82EE",
+              "textureX": 80,
+              "textureY": 16
+          },
+          "models": [{
+              "location": "tetra:items/module/sword/guard/socket/dyedream_crystal"
+          }]
+      },
+      {
+          "key": "sword_socket/socket_moltengold_star",
+          "category": "socket",
+          "integrity": -3,
+          "effects": {
+              "pastertetra:moltengoldskill": 1
+          },
+          "glyph": {
+              "tint": "FFFF00",
+              "textureX": 80,
+              "textureY": 16
+          },
+          "models": [{
+              "location": "tetra:items/module/sword/guard/socket/moltengold_star"
+          }]
+      },
+      {
+        "key": "sword_socket/socket_tide_heart",
+        "category": "socket",
+        "integrity": -3,
+        "effects": {
+            "pastertetra:tideskill": 1,
+            "pastertetra:tideeffect": 1
+        },
+        "glyph": {
+            "tint": "00CCCC",
+            "textureX": 80,
+            "textureY": 16
+        },
+        "models": [{
+            "location": "tetra:items/module/sword/guard/socket/tide_heart"
+        }]
+    }
+    ]
+  }

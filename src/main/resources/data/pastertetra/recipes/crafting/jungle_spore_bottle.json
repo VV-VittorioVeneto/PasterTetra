@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "pasterdream:jungle_spore"
+      },
+      {
+        "item": "pasterdream:jungle_spore"
+      },
+      {
+        "item": "pasterdream:jungle_spore"
+      },
+      {
+        "item": "pasterdream:jungle_spore"
+      },
+      {
+        "item": "pastertetra:spore_blossom_paste"
+      },
+      {
+        "item": "minecraft:glass_bottle"
+      }
+    ],
+    "result": {
+      "item": "pastertetra:jungle_spore_bottle",
+      "count": 1
+    }
+  }

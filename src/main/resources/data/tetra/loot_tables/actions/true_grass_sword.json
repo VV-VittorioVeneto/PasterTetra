@@ -1,0 +1,20 @@
+{
+    "pools":[
+        {
+            "name":"true_grass_sword","rolls":1,
+            "entries":[
+                {
+                    "type":"group",
+                    "weight":16,
+                    "children":[
+                        {
+                            "type":"minecraft:item",
+                            "name":"pastertetra:spore_essence",
+                            "functions":[{"function":"set_count","count":1}]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

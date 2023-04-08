@@ -1,0 +1,50 @@
+{
+  "itemGroup.pastertetra":"PasterTetra",
+
+  "item.pastertetra.tide_ingot":"引潮锭",
+  "item.pastertetra.raw_tide_ingot":"引潮锭原胚",
+  "item.pastertetra.jungle_spore_bottle":"孢子精华瓶",
+  "item.pastertetra.netherite_moltengold_ingot":"狱炎合金锭",
+  "item.pastertetra.netherite_moltengold_bing":"狱炎原料堆",
+  "item.pastertetra.spore_blossom_paste":"孢子花糊",
+  "item.pastertetra.tide_heart":"引潮核心",
+  "item.pastertetra.spore_essence":"草薙精华",
+  "item.pastertetra.moltengold_star":"炙焰之星",
+  "item.pastertetra.dyedream_crystal":"晶化染梦合金",
+  "item.pastertetra.true_grass_sword_for_break":"洗净的『天丛云』草薙",
+
+  "tetra.material.tide": "引潮",
+  "tetra.material.tide.prefix": "\u00A7b引潮",
+  "tetra.material.netherite_moltengold": "狱炎",
+  "tetra.material.netherite_moltengold.prefix": "\u00A76狱炎",
+
+  "tetra.improvement.pastertetra/moltengoldskill.name": "战技:融骸斩击",
+  "tetra.improvement.pastertetra/moltengoldskill.description": "获得战技融骸斩击",
+  "tetra.improvement.pastertetra/grassskill.name": "战技:极致锋利",
+  "tetra.improvement.pastertetra/grassskill.description": "获得战技极致锋利",
+  "tetra.improvement.pastertetra/tideskill.name": "战技:涌流剑技",
+  "tetra.improvement.pastertetra/tideskill.description": "获得战技涌流剑技",
+  "tetra.improvement.pastertetra/desertskill.name": "战技:涌流剑技",
+  "tetra.improvement.pastertetra/desertskill.description": "获得战技涌流剑技",
+  "tetra.improvement.pastertetra/moltendreamskill.name": "战技:凌空斩",
+  "tetra.improvement.pastertetra/moltendreamskill.description": "获得战技凌空斩",
+
+  "tetra.improvement.pastertetra/moltengolddig.name": "炙焰强化",
+  "tetra.improvement.pastertetra/moltengolddig.description": "右键使用将消耗饱食度来获得短暂的急迫效果",
+  "tetra.improvement.pastertetra/netheritedig.name": "狱炎强化",
+  "tetra.improvement.pastertetra/netheritedig.description": "右键使用将消耗饱食度来获得较短时间的急迫效果",
+  "tetra.improvement.pastertetra/moltengoldburn.name": "炙焰之灼烧",
+  "tetra.improvement.pastertetra/moltengoldburn.description": "攻击造成3秒火焰附加效果, 持续攻击时刷新时长",
+  "tetra.improvement.pastertetra/moltengoldeffect.name": "狱炎之火",
+  "tetra.improvement.pastertetra/moltengoldeffect.description": "攻击造成4秒火焰附加效果, 持续攻击延迟2秒时长",
+  "tetra.improvement.pastertetra/tideeffect.name": "引潮祝福",
+  "tetra.improvement.pastertetra/tideeffect.description": "手持拥有该效果的部件制成的武器或工具时, 获得水下呼吸效果",
+
+  "tetra.variant.sword_socket/socket_dyedream_crystal":"\u00A76镶嵌 [\u00A7d晶化染梦合金\u00A76]",
+  "tetra.variant.sword_socket/socket_moltengold_star":"\u00A76镶嵌 [\u00A7e炙焰之星\u00A76]",
+  "tetra.variant.sword_socket/socket_tide_heart":"\u00A76镶嵌 [\u00A7b引潮核心\u00A76]",
+  "tetra.variant.sword_socket/socket_spore_essence":"\u00A76镶嵌 [\u00A7a草薙精华\u00A76]",
+  "tetra.variant.sword/reinforced_fuller_spore":"\u00A72孢子精华淬毒",
+
+  "tetra.break_true_grass_sword_action.label":"破取草薙精华"
+}

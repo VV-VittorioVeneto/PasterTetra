@@ -1,0 +1,30 @@
+{
+    "key": "tide",                 
+    "category": "metal",                
+    "primary": 6.3,                
+    "secondary": 2.8,               
+    "tertiary": 3,                 
+    "durability": 850,           
+    "integrityCost": 2,            
+    "integrityGain": 6,           
+    "magicCapacity": 118,           
+    "toolLevel": "minecraft:diamond",   
+    "toolEfficiency": 7.8,              
+    "improvements":{
+        "pastertetra/tideeffect": 0
+    },
+    "tints": {
+        "glyph": "00CCFF",
+        "texture": "00CCFF"
+    },
+    "textures": [        
+        "metal",
+        "default"
+    ],
+    "material": {
+        "items": ["pastertetra:tide_ingot"]
+    },
+    "requiredTools": {
+        "hammer_dig": "minecraft:diamond"
+    }
+}

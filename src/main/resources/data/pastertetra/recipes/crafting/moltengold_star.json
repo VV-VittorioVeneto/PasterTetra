@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "pasterdream:moltengold_ingot"
+      },
+      {
+        "item": "minecraft:nether_star"
+      }
+    ],
+    "result": {
+      "item": "pastertetra:moltengold_star"
+    }
+  }

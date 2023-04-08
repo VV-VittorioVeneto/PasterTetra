@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "outcomes": [
+        {
+            "material": {
+                "items": ["pastertetra:jungle_spore_bottle"]
+            },
+            "moduleKey": "sword/reinforced_fuller",
+            "moduleVariant": "sword/reinforced_fuller_spore"
+        }
+    ]
+}

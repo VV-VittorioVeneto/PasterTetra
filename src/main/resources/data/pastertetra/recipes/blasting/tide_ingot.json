@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 50,
+  "experience": 10,
+  "ingredient": {
+    "item": "pastertetra:raw_tide_ingot"
+  },
+  "result": "pastertetra:tide_ingot"
+}

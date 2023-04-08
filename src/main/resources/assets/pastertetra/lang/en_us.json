@@ -1,0 +1,11 @@
+{
+  "item.pastertetra.tide_ingot":"Tide Ingot",
+  "item.pastertetra.jungle_spore_bottle":"孢子精华瓶",
+  "item.pastertetra.netherite_moltengold_ingot":"融骸合金锭",
+  "item.pastertetra.spore_blossom_paste":"孢子花糊",
+  "item.pastertetra.moltengold_stick":"Moltengold Stick",
+  "tetra.improvement.pastertetra/moltengoldskill.name": "战技:融骸斩击",
+  "tetra.improvement.pastertetra/moltengoldskill.description": "获得战技融骸斩击",
+  "tetra.improvement.pastertetra/moltendreamskill.name": "战技:凌空斩",
+  "tetra.improvement.pastertetra/moltendreamskill.description": "获得战技凌空斩"
+}

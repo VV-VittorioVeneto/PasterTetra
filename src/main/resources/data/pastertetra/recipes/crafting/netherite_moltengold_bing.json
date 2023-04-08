@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "pasterdream:moltengold_ingot"
+      },
+      {
+        "item": "pasterdream:moltengold_ingot"
+      },
+      {
+        "item": "pasterdream:moltengold_ingot"
+      },
+      {
+        "item": "pasterdream:moltengold_ingot"
+      },
+      {
+        "item": "pasterdream:moltengold_ingot"
+      },
+      {
+        "item": "minecraft:netherite_scrap"
+      }
+    ],
+    "result": {
+      "item": "pastertetra:netherite_moltengold_bing",
+      "count": 1
+    }
+  }

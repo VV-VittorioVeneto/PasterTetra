@@ -1,0 +1,37 @@
+{
+    "replace": false,
+    "outcomes": [
+        {
+            "material": {
+                "items": ["pastertetra:dyedream_crystal"]
+            },
+            "experienceCost": 18,
+            "moduleKey": "sword/socket",
+            "moduleVariant": "sword_socket/socket_dyedream_crystal"
+        },
+        {
+            "material": {
+                "items": ["pastertetra:moltengold_star"]
+            },
+            "experienceCost": 18,
+            "moduleKey": "sword/socket",
+            "moduleVariant": "sword_socket/socket_moltengold_star"
+        },
+        {
+            "material": {
+                "items": ["pastertetra:tide_heart"]
+            },
+            "experienceCost": 18,
+            "moduleKey": "sword/socket",
+            "moduleVariant": "sword_socket/socket_tide_heart"
+        },
+        {
+            "material": {
+                "items": ["pastertetra:spore_essence"]
+            },
+            "experienceCost": 18,
+            "moduleKey": "sword/socket",
+            "moduleVariant": "sword_socket/socket_spore_essence"
+        }
+    ]
+}

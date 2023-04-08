@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "pasterdream:mortar"
+      },
+      {
+        "item": "minecraft:spore_blossom"
+      }
+    ],
+    "result": {
+      "item": "pastertetra:spore_blossom_paste",
+      "count": 1
+    }
+  }

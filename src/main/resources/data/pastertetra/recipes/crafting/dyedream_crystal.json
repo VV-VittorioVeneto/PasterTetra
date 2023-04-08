@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "pasterdream:dyedream_ingot"
+      },
+      {
+        "item": "pasterdream:meltdream_crystal_0"
+      }
+    ],
+    "result": {
+      "item": "pastertetra:dyedream_crystal"
+    }
+  }

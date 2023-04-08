@@ -1,0 +1,23 @@
+{
+    "replace": false,
+        "variants": [
+      {
+          "key": "sword/reinforced_fuller_spore",
+          "category": "reinforced_fuller",
+          "integrity": 0,
+          "effects": {
+              "pastertetra:grasseffect": 1
+          },
+          "glyph": {
+              "tint": "6988b0",
+              "textureX": 80,
+              "textureY": 16
+          },
+          "models": [{
+              "location": "tetra:items/module/sword/guard/socket/default",
+              "tint": "6988b0"
+          }
+        ]
+      }
+    ]
+}

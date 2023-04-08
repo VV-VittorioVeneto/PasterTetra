@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      " C ",
+      "ABA",
+      " C "
+  ],
+  "key": {
+      "C":{"item": "minecraft:prismarine_shard"},
+      "B":{"item": "minecraft:heart_of_the_sea"},
+      "A":{"item": "minecraft:prismarine_crystals"}
+  },
+  "result": {
+      "item": "pastertetra:tide_heart",
+      "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+[
+    {
+        "key":"break_true_grass_sword_action",
+        "requirement":{"items":["pastertetra:true_grass_sword_for_break"]},
+        "requiredTools":{"hammer_dig":"minecraft:diamond"},
+        "lootTable":"tetra:actions/true_grass_sword"
+    }
+]    

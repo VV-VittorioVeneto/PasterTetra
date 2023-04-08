@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ABA",
+        "ACA"
+    ],
+    "key": {
+        "A":{"item": "minecraft:prismarine_shard"},
+        "B":{"item": "minecraft:prismarine_crystals"},
+        "C":{"item": "pasterdream:elder_guardian_scale"}
+    },
+    "result": {
+        "item": "pastertetra:raw_tide_ingot",
+        "count": 2
+    }
+}
