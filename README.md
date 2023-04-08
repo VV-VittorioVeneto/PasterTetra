@@ -4,6 +4,9 @@ PasterTetra 模组 -- [帕斯特之梦](https://www.mcmod.cn/class/8530.html)和
 <div align="center">
   <img src="https://github.com/VV-VittorioVeneto/PasterTetra/blob/main/img/1.png">
 </div>
+<div align="center">
+  <img src="https://github.com/VV-VittorioVeneto/PasterTetra/blob/main/img/2.png">
+</div>
 
 #### 这个模组的存在意义是什么？
 帕斯特之梦模组自带与Tetra的联动，但那并不够完整。<br>
