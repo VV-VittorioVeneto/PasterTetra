@@ -40,7 +40,7 @@ public class PTSkillandEffect {
     @SubscribeEvent
     public void onInteract(PlayerInteractEvent.RightClickItem event) {
         final Player player = event.getEntity();
-        final LevelAccessor WorldIn = player.getLevel();
+        final LevelAccessor WorldIn = player.level();
         final ItemStack heldStack = player.getMainHandItem();
         if (!WorldIn.isClientSide()){
             //MainPastertetra.LOGGER.info("Begin C");
@@ -79,7 +79,7 @@ public class PTSkillandEffect {
         final Entity source = event.getSource().getEntity();
         final Entity entity = event.getEntity();
         if ((source instanceof final Player player) && (entity != null)) {
-            final LevelAccessor WorldIn = player.getLevel();
+            final LevelAccessor WorldIn = player.level();
             //if (!WorldIn.isClientSide()){
                 //MainPastertetra.LOGGER.info("Begin A");
                 final ItemStack heldStack = player.getMainHandItem();
@@ -137,7 +137,7 @@ public class PTSkillandEffect {
     @SubscribeEvent
     public void tickEvent(TickEvent.PlayerTickEvent event){
         final Entity player = event.player;
-        final LevelAccessor WorldIn = player.level;
+        final LevelAccessor WorldIn = player.level();
         final ItemStack heldStack = ((LivingEntity) player).getMainHandItem();
         if (!WorldIn.isClientSide()){
             if (heldStack.getItem() instanceof ModularItem item) { 
